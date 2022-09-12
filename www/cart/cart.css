@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+table {
+    border: 1px solid #1fde3d;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, tr {
+
+}

@@ -1,0 +1,72 @@
+[
+    {  
+        "link": "../product-detail/1/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/b03608ee3dcd8d123eabf664b34e33e2.png_720x720q80.jpg_.webp",
+        "title": "iPhone 11 - Hàng Chính Hãng",
+        "description": "36% off",
+        "price": "10990000"
+    },
+    {
+        "link": "../product-detail/2/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/d42a7396a24e0baaa0dd0dba72af9a46.png_720x720q80.jpg_.webp",
+        "title": "iPhone 12 - Hàng Chính Hãng",
+        "description": "23% off",
+        "price": "15290000"
+    },
+    {
+        "link": "../product-detail/3/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/5d9b0b6ab254f7537c9dfdf7b573c34c.png_720x720q80.jpg_.webp",
+        "title": "iPhone 13 Pro Max - Hàng Chính Hãng VN/A",
+        "description": "10% off",
+        "price": "26390000"
+    },
+    {
+        "link": "../product-detail/4/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/299794209efef0b6f6d33bfc857c6f8d.png_200x200q80.jpg_.webp",
+        "title": "Điện Thoại Xiaomi Redmi 9A - RAM 2GB Bộ Nhớ Trong 32GB...",
+        "description": "6% off",
+        "price": "3390000"
+    },
+    {
+        "link": "../product-detail/5/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/1c8ea7088b31d9a16874091128c9e967.jpg_720x720q80.jpg_.webp",
+        "title": "Điện thoại Samsung Galaxy A32 (6GB/128GB)- Hàng chính hãng mới 100% Nguyên Seal",
+        "description": "3% off",
+        "price": "4875000"
+    },
+    {
+        "link": "../product-detail/6/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/ea4fb6bebf9f9eb54faf8e1acfc7231d.jpg_720x720q80.jpg_.webp",
+        "title": "[Trả góp 0%] Điện Thoại Samsung Galaxy A23 (4GB/128GB) - Hàng Chính Hãng, Mới 100%, Nguyên Seal | Bảo hành 12 tháng",
+        "description": "3% off",
+        "price": "4656000"
+    },
+    {
+        "link": "../product-detail/7/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/c21a8651c20661959e74cd71e9701a15.jpg_720x720q80.jpg_.webp",
+        "title": "Điện thoại Samsung Galaxy Z Fold3 5G (12GB / 256GB & 12GB / 512GB)",
+        "description": "2% off",
+        "price": "41990000"
+    },
+    {
+        "link": "../product-detail/8/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/cb2b3bdab5b0f24c06b77b53f49fdcac.png_720x720q80.jpg_.webp",
+        "title": "Điện thoại OPPO A95 8GB/128GB - Hàng chính hãng",
+        "description": "36% off",
+        "price": "6390000"
+    },
+    {
+        "link": "../product-detail/9/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/6dde91e0ff430da0c231ae8ef310afb3.jpg_720x720q80.jpg_.webp",
+        "title": "Điện thoại OPPO A16k 3GB/32GB - Hàng chính hãng",
+        "description": "30% off",
+        "price": "2890000"
+    },
+    {
+        "link": "../product-detail/10/product.php",
+        "image": "https://lzd-img-global.slatic.net/g/p/002591f4ab4d69d67c2c3565aae74d64.jpg_720x720q80.jpg_.webp",
+        "title": "Điện thoại OPPO A5 chơi game liên quân mượt, bảo hành 06 tháng",
+        "description": "36% off",
+        "price": "26390000"
+    }
+]
