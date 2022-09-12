@@ -1,8 +1,7 @@
-# My group project output demo: https://rmiteduau-my.sharepoint.com/:v:/g/personal/s3750945_student_rmit_edu_au/EZOctBoQtFxIswRp9jjbiu4B87_6WaVp2rmU6mRlRXyJpg?e=s0gqvE
-
 # Step to start the application
 - On the terminal or cmd of the root folder, type this php -S localhost:{portnumber}
 - Access the localhost:{portnumber}/index.php to register a user account and follow the step through login and test user site.
+- My group project output demo: https://rmiteduau-my.sharepoint.com/:v:/g/personal/s3750945_student_rmit_edu_au/EZOctBoQtFxIswRp9jjbiu4B87_6WaVp2rmU6mRlRXyJpg?e=s0gqvE
 
 CONTRIBUTION:
 
