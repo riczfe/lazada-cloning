@@ -7,6 +7,8 @@ CONTRIBUTION:
 
 Kha Nguyen Anh Tran s3750945: 40% 
 
+(Functions I contributed: login, registration, shipper, product-detail, myAccount, cart, header, footer)
+
 # User Account
 * CUSTOMER ||
 username: customer <=>
